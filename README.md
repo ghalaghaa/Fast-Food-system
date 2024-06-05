@@ -1,6 +1,6 @@
 "Fast food System" is a software system designed to manage restaurant orders, developed in Java. The project's goal is to streamline the process of recording and managing customer orders, generating invoices, and handling customer data and menu items.
 
-#### Key Components:
+### Key Components:
 1. Order Management:
    - Record orders and requested items.
 2. Menu Management:
