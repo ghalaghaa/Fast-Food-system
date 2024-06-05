@@ -12,7 +12,7 @@
 5. Data Persistence:
    - Save and retrieve order and customer data from files.
 
-#### How It Works:
+### How It Works:
 - Record orders through a user interface.
 - Generate detailed invoices.
 - Save data to ensure no information is lost.
